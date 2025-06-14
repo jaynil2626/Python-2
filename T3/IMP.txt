@@ -1,0 +1,14 @@
+Qb ni bar na mcq nai ave (khali value change thay, method qb nijj hase)
+
+First 3 marks ma api OR socket na progarm aavse
+tcp server tcp client (aama kaik navu aavse, square, cube , numerical string seprated by space, return odd number cube etc)
+udp server udp client
+
+api ma 3 program possible che (Bau avadtu hoy to map filter kari lejo)
+1. Obtain Coordinate 
+2. Current Weather 
+3. Air Pollution
+
+Second 3 Mark ma deep learning 100% aavse j (ANN or CNN)
+
+9 Marks ma 100% webscraping , Dataframe banavani aavse (flipkart, trumplies, Table wado refer karo practise mate)
